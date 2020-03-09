@@ -1,0 +1,29 @@
+p {
+  color: #657b83;
+}
+
+.second-paragraph {
+  color: #b58900;
+}
+
+#third-paragraph {
+  color: #d33682;
+}
+
+h2 {
+  color: red;
+}
+
+h3 {
+  color: blue;
+}
+
+a {
+  text-decoration: underline;
+  hover: blue;
+}
+
+p.lead {
+  color: pink;
+  font-size: 160%;
+}
