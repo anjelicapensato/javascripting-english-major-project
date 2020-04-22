@@ -1,29 +1,44 @@
-p {
-  color: #657b83;
+body {
+  font-family: 'Raleway', sans-serif;
 }
 
-.second-paragraph {
+p {
+  font-family: 'Raleway', sans-serif;
+  color: #000000;
+  background-color: #FFFFFF;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+.navbar-brand {
+  font-family: 'Raleway', sans-serif;
+}
+
+.nav-item {
+  font-family: 'Raleway', sans-serif;
+}
+
+#title {
+  font-family: 'Raleway', sans-serif;
+}
+
+#response {
+  font-family: 'Raleway', sans-serif;
+  color: #000000;
+  text-align: center;
+}
+/*.second-paragraph {
   color: #b58900;
 }
-
 #third-paragraph {
   color: #d33682;
 }
-
-h2 {
-  color: red;
-}
-
-h3 {
-  color: blue;
-}
-
-a {
-  text-decoration: underline;
-  hover: blue;
-}
-
 p.lead {
-  color: pink;
-  font-size: 160%;
+  color: #FFFFFF;
+  background-color: #000000;
 }
+/*

@@ -52,6 +52,6 @@ myBurritoObject.habaneroSauceSquirts +
 " squirts of habanero.");
 myBurritoObject.spiciness();
 */
-$("#response").html("I am tired.");
+/*$("#response").html("I am tired.");
 $(".first-paragraph").addClass("lead");
-$("p").html("I want to go home.");
+$("p").html("I want to go home.");*/

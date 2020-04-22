@@ -1,5 +1,17 @@
 body {
-  font-family: 'Bellota';
+  font-family: 'Raleway', sans-serif;
+}
+
+.navbar-brand {
+  font-family: 'Raleway', sans-serif;
+}
+
+.nav-item {
+  font-family: 'Raleway', sans-serif;
+}
+.container {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
 }
 
 h1 {
@@ -7,9 +19,5 @@ h1 {
 }
 
 p {
-  text-align: center;
-}
-
-.container {
   text-align: center;
 }
